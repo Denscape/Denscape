@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Denscape&theme=blue-green)](https://git.io/streak-stats)
+(https://streak-stats.demolab.com?user=Denscape&theme=blue-green)](https://git.io/streak-stats)
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Denscape&theme=blue-green" alt="GitHub Streak" /></a>
