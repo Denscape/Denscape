@@ -16,3 +16,4 @@
 [![](https://visitcount.itsvg.in/api?id=denscape&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Image Alt](https://github.com/Denscape/Denscape/blob/c2388fa758e671f51d5e404e3fef9e58f79ceb3a/networking-basics.png)
