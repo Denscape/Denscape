@@ -1,5 +1,1 @@
-<h2 align="center">📊 GitHub Streak:</h2>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=denscape&theme=gruvbox-duo" alt="denscape" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=denscape&theme=sakura-x)](https://git.io/streak-stats)
