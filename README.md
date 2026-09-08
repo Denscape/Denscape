@@ -4,5 +4,5 @@
 
 📊 GitHub Stats:
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Denscape&theme=gruvbox" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Denscape&theme=prussian)](https://git.io/streak-stats)
 </div> 
