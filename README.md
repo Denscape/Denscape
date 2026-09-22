@@ -4,7 +4,7 @@
 
 📊 GitHub Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Denscape&theme=prussian)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=denscape&theme=prussian)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=denscape&color=blue)
 </div> 
